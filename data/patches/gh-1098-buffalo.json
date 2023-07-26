@@ -1,0 +1,40 @@
+{
+	"id": -1,
+	"name": "Buffalo",
+	"description": "Pixel map for the USA city of Buffalo, NY. The buffalo is the mascot for the city and it’s beloved American football team, the Buffalo Bills. Go Bills.",
+	"links": {
+		"subreddit": [
+			"716place"
+		]
+	},
+	"path": {
+		"180-259": [
+			[
+				670,
+				-303
+			],
+			[
+				648,
+				-303
+			],
+			[
+				648,
+				-290
+			],
+			[
+				670,
+				-290
+			],
+			[
+				670,
+				-303
+			]
+		]
+	},
+	"center": {
+		"180-259": [
+			659,
+			-296
+		]
+	}
+}
